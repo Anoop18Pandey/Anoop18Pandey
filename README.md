@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anoop Pandey
 
 🎓 BCA Student | 💼 Aspiring Data Analyst | 📊 AI & Front-End Intern  
-📍 Sultanpur, UP | 🎯 Targeting ₹10 LPA Analyst Role
+📍 Sultanpur, UP | 🎯 Targeting Analyst Role
 
 ---
 
