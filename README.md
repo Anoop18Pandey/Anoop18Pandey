@@ -19,6 +19,7 @@
 |--------|-------|-------------|
 | [Netflix EDA](https://github.com/Anoop18Pandey/Netflix_EDA_2025) | Python, Seaborn | Exploratory analysis of Netflix content |
 | [Retail Sales Dashboard](https://github.com/Anoop18Pandey/Retail_Sales_PBI) | Power BI | Region-wise sales & profit analysis |
+| [Flipkart_Market_Basket_Analysis](https://github.com/Anoop18Pandey/Flipkart_Market_Basket_Analysis.git) | Python | SQL | PowerBI |
 
 ---
 
@@ -26,3 +27,10 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/anoop-pandey-7931a5229)  
 - 💻 [GitHub](https://github.com/Anoop18Pandey)  
 - 📧 anooppanday61@gmail.com
+
+- 
+### 🧠 Fun Fact
+> I believe in “**Work in Silence, Let Data Speak**” 📊
+
+
+
